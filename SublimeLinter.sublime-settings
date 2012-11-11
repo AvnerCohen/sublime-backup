@@ -1,0 +1,9 @@
+/*
+    SublimeLinter default settings
+*/
+{
+    "jshint_options":
+    {
+        "quotmark": "single"
+    }
+}

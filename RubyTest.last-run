@@ -1,0 +1,4 @@
+{
+	"last_test_run": "rspec spec/models/relationship_spec.rb -l12",
+	"last_test_working_dir": "/Users/avnerner/dev/repos/rails_projects/sample_app"
+}

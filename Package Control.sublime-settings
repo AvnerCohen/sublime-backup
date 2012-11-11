@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": 1352616921,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"CSS Snippets",
+		"JsFormat",
+		"Package Control",
+		"Prefixr",
+		"RSpec",
+		"RSpec (snippets and syntax)",
+		"RubyFormat",
+		"RubyTest",
+		"SideBarEnhancements",
+		"Sublime-HTMLPrettify",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"ZenCoding"
+	]
+}
