@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1352616921,
+	"auto_upgrade_last_run": 1352803763,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -16,6 +16,7 @@
 		"Sublime-HTMLPrettify",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"Tomorrow Color Schemes",
 		"ZenCoding"
 	]
 }
